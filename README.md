@@ -4,4 +4,4 @@ Docker Full Course Playlist: https://www.youtube.com/playlist?list=PLs-PsDpuAuTe
 
 AWS Tutorials: https://www.youtube.com/playlist?list=PLs-PsDpuAuTdOcZa-DDgG8KRbtMI_XRrC
 
-Follow the above are the links
+Follow the above are links
